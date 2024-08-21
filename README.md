@@ -78,3 +78,7 @@ O segundo momento foi então a criação do banco em si.
 
 ![Criacao_employee_departament](https://github.com/user-attachments/assets/cc45d2f9-7db3-4224-accb-ec1ed2966bdb)
 
+### 📊Finalização da analise
+
+![image](https://github.com/user-attachments/assets/b8801ed1-520c-4381-83e0-5ad82ac169ff)
+
