@@ -82,3 +82,5 @@ O segundo momento foi então a criação do banco em si.
 
 ![image](https://github.com/user-attachments/assets/b8801ed1-520c-4381-83e0-5ad82ac169ff)
 
+A analise demonstrou que os recursos disponiveis estão bem distribuidos, onde o custo maior é com o James o genente da orçanização.
+
