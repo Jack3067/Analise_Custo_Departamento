@@ -46,7 +46,7 @@ O segundo momento foi então a criação do banco em si.
 
 ![todas_tabelas_criadas](https://github.com/user-attachments/assets/4bda031a-7a7d-4e4e-9a74-458fc0195adf)
 
-## Polando o Banco de Dados
+## Populando o Banco de Dados
 
 ### ⌨️ dependent - SQL
 
